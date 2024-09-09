@@ -1,5 +1,5 @@
 Mantan cita-cita
-1. Pilot
-2. Arsitek
-3. Pemadam kebakaran
+1. Pilot: SD
+2. Arsitek: SD
+3. Pemadam kebakaran: SMP
 4. Devops: Ini cita-citaku sekarang
